@@ -1,8 +1,8 @@
 # Rayane_
 
-👨🏻‍🎓 20 years old, Computer science student at IUT Nice Côte d'Azur  
+👨🏻‍🎓 21 years old, Computer Science Student at 42 Nice
 
-## Programming language 
+## Programming languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
