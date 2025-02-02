@@ -1,6 +1,6 @@
 # Rayane_
 
-👨🏻‍🎓 21 years old, Computer Science Student at 42 Nice
+👨🏻‍🎓 21 years old, IT Student at 42 Nice
 
 ## Programming languages
 
